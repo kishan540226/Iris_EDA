@@ -60,7 +60,39 @@ This notebook explores the dataset through statistical summaries, visualizations
 
 ---
 
+## 🚀 How to Run
+
+1. Open the notebook in [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1rHsALjfpFkeJbADaoh5CyiDMj59Zeve6?usp=sharing))
+2. Run all cells in order
+3. Explore the visualizations and analysis
+4. (Optional) Extend with classification model
+
+---
+
+## 📚 Next Steps
+
+- Train a classification model (e.g., Logistic Regression, SVM)
+- Feature selection or PCA
+- Deploy as a Streamlit or Flask app
+
+---
+
+## 👨‍💻 Author
+
+**Your Name**  
+GitHub: [kishan540226](https://github.com/yourusername)  
+Email: hk9070689@gmail.com
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License.
+
+---
+
 ## 📦 Requirements
 
 Install with `pip install -r requirements.txt` or use Google Colab (recommended).
+
 
